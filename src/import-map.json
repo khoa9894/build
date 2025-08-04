@@ -1,6 +1,6 @@
 {
   "imports": {
-    "cc": "https://khoa9894.github.io/build/cocos-js/cc.js",
-    "_virtual_cc": "https://khoa9894.github.io/build/cocos-js/_virtual_cc-BmhdMjO1.js"
+    "cc": "../cocos-js/cc.js",
+    "_virtual_cc": "../cocos-js/_virtual_cc-BmhdMjO1.js"
   }
 }
